@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/BlueArrowPreclinicalConsulting/precache-manifest.ca2390f10cf1b3d6f46c823cae09c4e1.js"
+  "/BlueArrowPreclinicalConsulting/precache-manifest.36041b433d3bd7ff1d825d020f872714.js"
 );
 
 workbox.clientsClaim();
