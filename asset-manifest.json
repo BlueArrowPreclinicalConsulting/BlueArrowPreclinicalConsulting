@@ -1,13 +1,13 @@
 {
-  "main.css": "/BlueArrowPreclinicalConsulting/static/css/main.a9009051.chunk.css",
-  "main.js": "/BlueArrowPreclinicalConsulting/static/js/main.e3330cf2.chunk.js",
-  "main.js.map": "/BlueArrowPreclinicalConsulting/static/js/main.e3330cf2.chunk.js.map",
-  "static/js/1.4a34e45d.chunk.js": "/BlueArrowPreclinicalConsulting/static/js/1.4a34e45d.chunk.js",
-  "static/js/1.4a34e45d.chunk.js.map": "/BlueArrowPreclinicalConsulting/static/js/1.4a34e45d.chunk.js.map",
-  "runtime~main.js": "/BlueArrowPreclinicalConsulting/static/js/runtime~main.5ba4da1d.js",
-  "runtime~main.js.map": "/BlueArrowPreclinicalConsulting/static/js/runtime~main.5ba4da1d.js.map",
-  "static/css/main.a9009051.chunk.css.map": "/BlueArrowPreclinicalConsulting/static/css/main.a9009051.chunk.css.map",
-  "index.html": "/BlueArrowPreclinicalConsulting/index.html",
-  "precache-manifest.36041b433d3bd7ff1d825d020f872714.js": "/BlueArrowPreclinicalConsulting/precache-manifest.36041b433d3bd7ff1d825d020f872714.js",
-  "service-worker.js": "/BlueArrowPreclinicalConsulting/service-worker.js"
+  "main.css": "/static/css/main.a9009051.chunk.css",
+  "main.js": "/static/js/main.e2d5e65b.chunk.js",
+  "main.js.map": "/static/js/main.e2d5e65b.chunk.js.map",
+  "static/js/1.4a34e45d.chunk.js": "/static/js/1.4a34e45d.chunk.js",
+  "static/js/1.4a34e45d.chunk.js.map": "/static/js/1.4a34e45d.chunk.js.map",
+  "runtime~main.js": "/static/js/runtime~main.229c360f.js",
+  "runtime~main.js.map": "/static/js/runtime~main.229c360f.js.map",
+  "static/css/main.a9009051.chunk.css.map": "/static/css/main.a9009051.chunk.css.map",
+  "index.html": "/index.html",
+  "precache-manifest.ff0939f64411ec86a511606b98c84e24.js": "/precache-manifest.ff0939f64411ec86a511606b98c84e24.js",
+  "service-worker.js": "/service-worker.js"
 }
